@@ -2,14 +2,14 @@ package com.BLPrograms;
 
 public class Person {
 
-        String firstName;
-        String lastName;
-        String address;
-        String city;
-        int zipCode;
-        long phoneNumber;
-        String email;
-        String state;
+        private String firstName;
+        private String lastName;
+        private String address;
+        private String city;
+        private int zipCode;
+        private long phoneNumber;
+        private String email;
+        private String state;
 
         public String getFirstName() {
             return firstName;
