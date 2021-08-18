@@ -6,7 +6,7 @@ public class AddressBookMain {
 
     /*
      * @author - Mohammad Fatha
-     * Purpose to add the details of the person using collection
+     * Purpose to create contacts in address book
      */
 
         public static void main(String[] args)
