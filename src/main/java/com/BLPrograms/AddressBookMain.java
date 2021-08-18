@@ -12,9 +12,6 @@ public class AddressBookMain {
         public static void main(String[] args)
         {
             Scanner sc = new Scanner(System.in);
-            System.out.print("Enter how many contacts you want to store at a time : ");
-            int enterCount = sc.nextInt();
-            for (int i = 0; i < enterCount; i++) {
 
                 Person contactDetails = new Person();
                 System.out.print("Enter First Name : ");
@@ -41,6 +38,6 @@ public class AddressBookMain {
 
                 System.out.print("Enter Email-Id : ");
                 contactDetails.setEmailId(sc.next());
-            }
+          
         }
 }
