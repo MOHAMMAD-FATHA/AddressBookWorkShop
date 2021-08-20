@@ -1,0 +1,4 @@
+SConnecting to databasejdbc:mysql://localhost:3306/addressbookservice?useSSL=false
+@Connection successfulcom.mysql.cj.jdbc.ConnectionImpl@56192ede
+SConnecting to databasejdbc:mysql://localhost:3306/addressbookservice?useSSL=false
+@Connection successfulcom.mysql.cj.jdbc.ConnectionImpl@4a5d9cb3
